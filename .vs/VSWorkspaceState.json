@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Combine",
+    "\\Combine\\MiniChallenges",
+    "\\Combine\\MiniChallenges\\MiniChallenge1"
   ],
+  "SelectedNode": "\\Combine\\MiniChallenges\\MiniChallenge1\\MiniChallenge1",
   "PreviewInSolutionExplorer": false
 }

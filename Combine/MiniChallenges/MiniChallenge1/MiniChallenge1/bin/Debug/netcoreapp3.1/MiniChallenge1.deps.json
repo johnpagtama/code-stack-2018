@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MiniChallenge1/1.0.0": {
+        "runtime": {
+          "MiniChallenge1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniChallenge1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
