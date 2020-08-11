@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wargamer360\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wargamer360\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.exe
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.deps.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.runtimeconfig.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.runtimeconfig.dev.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\bin\Debug\netcoreapp3.1\MiniChallenge5.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.AssemblyInfoInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.AssemblyInfo.cs
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.csproj.CoreCompileInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.genruntimeconfig.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge5\MiniChallenge5\obj\Debug\netcoreapp3.1\MiniChallenge5.csprojAssemblyReference.cache
