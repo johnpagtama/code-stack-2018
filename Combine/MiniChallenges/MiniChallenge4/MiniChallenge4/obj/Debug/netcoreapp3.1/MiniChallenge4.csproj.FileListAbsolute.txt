@@ -1,0 +1,12 @@
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.exe
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.deps.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.runtimeconfig.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.runtimeconfig.dev.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\bin\Debug\netcoreapp3.1\MiniChallenge4.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.AssemblyInfoInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.AssemblyInfo.cs
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.csproj.CoreCompileInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge4\MiniChallenge4\obj\Debug\netcoreapp3.1\MiniChallenge4.genruntimeconfig.cache

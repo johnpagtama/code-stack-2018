@@ -4,13 +4,12 @@
     "\\Combine",
     "\\Combine\\MiniChallenges",
     "\\Combine\\MiniChallenges\\MiniChallenge1",
-    "\\Combine\\MiniChallenges\\MiniChallenge1\\MiniChallenge1",
     "\\Combine\\MiniChallenges\\MiniChallenge2",
-    "\\Combine\\MiniChallenges\\MiniChallenge2\\MiniChallenge2",
+    "\\Combine\\MiniChallenges\\MiniChallenge3",
     "\\FrontEnd",
     "\\FrontEnd\\MiniChallenges",
     "\\FullStack"
   ],
-  "SelectedNode": "\\Combine\\MiniChallenges\\MiniChallenge2",
+  "SelectedNode": "\\Combine\\MiniChallenges",
   "PreviewInSolutionExplorer": false
 }
