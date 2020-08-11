@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge5\\MiniChallenge5\\MiniChallenge5.csproj",
-      "projectName": "MiniChallenge5",
-      "projectPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge5\\MiniChallenge5\\MiniChallenge5.csproj",
+      "projectUniqueName": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge6\\MiniChallenge6\\MiniChallenge6.csproj",
+      "projectName": "MiniChallenge6",
+      "projectPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge6\\MiniChallenge6\\MiniChallenge6.csproj",
       "packagesPath": "C:\\Users\\Wargamer360\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge5\\MiniChallenge5\\obj\\",
+      "outputPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge6\\MiniChallenge6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wargamer360\\AppData\\Roaming\\NuGet\\NuGet.Config",
