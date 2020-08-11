@@ -1,0 +1,13 @@
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.exe
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.deps.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.runtimeconfig.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.runtimeconfig.dev.json
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\bin\Debug\netcoreapp3.1\MiniChallenge3.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.csprojAssemblyReference.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.AssemblyInfoInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.AssemblyInfo.cs
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.csproj.CoreCompileInputs.cache
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.dll
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.pdb
+C:\Users\Wargamer360\source\repos\johnpagtama\code-stack-2018\Combine\MiniChallenges\MiniChallenge3\MiniChallenge3\obj\Debug\netcoreapp3.1\MiniChallenge3.genruntimeconfig.cache
