@@ -8,7 +8,10 @@ namespace MiniChallenge7
     {
         static void Main(string[] args)
         {
-            int[] nums = {12, 34, 567};
+
+            int[] nums;
+
+            Console.WriteLine("Enter a number: ");
             //int num = 12;
             //Console.WriteLine(num.ToString().Reverse().ToArray());
             //char[] newnums = nums[0].ToCharArray();
