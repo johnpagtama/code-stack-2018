@@ -9,26 +9,32 @@ namespace MiniChallenge7
         static void Main(string[] args)
         {
 
-            int[] nums;
-
-            Console.WriteLine("Enter a number: ");
-            //int num = 12;
-            //Console.WriteLine(num.ToString().Reverse().ToArray());
-            //char[] newnums = nums[0].ToCharArray();
-            //IEnumerable<string> newnums = nums.Select(a => a);
-            
-            foreach (int b in nums)
+            List<int> nums = new List<int>();
+            char anotherOne;
+            bool loop = true;
+            while (loop)
             {
-                Console.WriteLine(b.ToString().Reverse().ToArray());
+                Console.WriteLine("Enter a number: ");
+
+                nums.Add(Convert.ToInt32(Console.ReadLine()));
+
+                Console.WriteLine("Would you like to enter another number?");
+
+                anotherOne = Console.ReadLine()[0];
+
+                Console.WriteLine("\n");
+
+                loop = anotherOne.ToString().ToUpper() == 'Y'.ToString();
             }
 
-            //Console.WriteLine(new char[] { nums[0].ToCharArray()[0], nums[0].ToCharArray()[1] });
+            foreach (int num in nums)
+            {
+                Console.Write("Original values: ");
+                Console.WriteLine(num);
 
-            //Reverse array
-
-            //Display original array
-
-            //Display reversed array
+                Console.Write("Reversed values: ");
+                Console.WriteLine(num.ToString().Reverse().ToArray());
+            }
         }
     }
 }
