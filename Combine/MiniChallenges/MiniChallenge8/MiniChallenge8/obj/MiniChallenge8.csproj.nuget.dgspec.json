@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge7\\MiniChallenge7\\MiniChallenge7.csproj": {}
+    "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge8\\MiniChallenge8\\MiniChallenge8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge7\\MiniChallenge7\\MiniChallenge7.csproj": {
+    "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge8\\MiniChallenge8\\MiniChallenge8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge7\\MiniChallenge7\\MiniChallenge7.csproj",
-        "projectName": "MiniChallenge7",
-        "projectPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge7\\MiniChallenge7\\MiniChallenge7.csproj",
+        "projectUniqueName": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge8\\MiniChallenge8\\MiniChallenge8.csproj",
+        "projectName": "MiniChallenge8",
+        "projectPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge8\\MiniChallenge8\\MiniChallenge8.csproj",
         "packagesPath": "C:\\Users\\Wargamer360\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge7\\MiniChallenge7\\obj\\",
+        "outputPath": "C:\\Users\\Wargamer360\\source\\repos\\johnpagtama\\code-stack-2018\\Combine\\MiniChallenges\\MiniChallenge8\\MiniChallenge8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wargamer360\\AppData\\Roaming\\NuGet\\NuGet.Config",
